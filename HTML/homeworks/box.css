@@ -1,0 +1,36 @@
+
+ 
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+body{
+    background-color: black;
+}
+
+.main-head{
+    font-family: 'Sigmar One', cursive;
+    color: white;
+    text-align: center;
+}
+
+div{
+    color:white;
+    width: 80px;
+    height: 100px;
+    float:left;
+    border: 1px solid black;
+}
+.col1{
+    margin: 20px;
+    margin-left: 20px;
+    margin-right: 8px;
+    margin-top: 20px;
+       padding: 40px;
+    background-color:yellow;
+    border: 1px solid yellow;
+}
+.col2{
+    width: 50px;
+    height:20px;
+    border: 1px solid green;
+    background-color: green;
+}

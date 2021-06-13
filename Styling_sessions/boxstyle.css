@@ -1,0 +1,153 @@
+
+ 
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+body{
+    background-color: black;
+}
+
+.main-head{
+    font-family: 'Sigmar One', cursive;
+    color:cornsilk;
+    
+}
+
+div{
+    width: 100px;
+    height: 150px;
+    border: 1px solid white;
+    float:left;
+}
+
+.first{
+    margin-top: 10px;
+    margin-left: 400px;
+    margin-bottom: 20px;
+    background-color: yellow;
+}
+
+.second{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 12px;
+    background-color: rgb(48, 7, 48);
+}
+    
+.third{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 12px;
+    background-color: rgb(255, 230, 0);
+}
+.fourth{
+  margin-top: 10px;
+    margin-left: 12px;
+    margin-bottom: 20px;
+    background-color: green;
+}
+.fifth{
+   
+    margin-top: 10px;
+    margin-left: 12px;
+    margin-bottom: 20px;
+    background-color:tomato;
+}
+.firstr{
+  
+    margin-top: 10px;
+    margin-left: 299px;
+    margin-bottom: 20px;
+    background-color:blueviolet;
+
+}
+.secondr{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(255, 60, 0);
+}
+.thirdr{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: yellow;
+}
+.fourthr{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: orangered;
+}
+.fifthr{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color:orange;
+}
+.sixthr{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(27, 177, 107);
+}
+.seventhr{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(255, 0, 179);
+}
+
+.firstrr{
+    margin-bottom: 20px;
+    margin-left: 195px;
+    margin-top: 10px;
+    background-color:blue;
+}
+.secondrr{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: yellow;
+}
+.thirdrr{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: peachpuff;
+}
+.fourthrr{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color:brown;
+}
+.fifthrr{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: yellow;
+}
+.sixthrr{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color:green;
+}
+.seventhrr{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color:indianred;
+}
+.eighthrr{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color:blue;
+}
+.ninethrr{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color:whitesmoke;
+
+}

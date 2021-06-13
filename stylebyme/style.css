@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+ 
+
+.main-header{
+    text-align: center;
+
+}
+
+.state{
+    border: 1px solid black;
+    color:white;
+    background-color: coral;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    float: left;
+}
+.pic{
+    border: 1px solid white;
+    background-color: pink;
+}
+
+.pics{
+    border: 1px solid white;
+    background-color:green ;
+}
+.ter{
+    border: 1px solid white;
+    background-color:blue;
+}
+
+.lop{
+    border: 1px solid white;
+    background-color:red;
+}
+
+.mus{
+    border: 1px solid white;
+    background-color:blue;
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+    color: white;
+}
+#state{
+    color: #f58442;
+}
+
+
+#place
+{
+    color: chartreuse;
+}
+
+.section1{
+    color:white;
+    text-align: center;
+}
+

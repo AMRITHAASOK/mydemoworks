@@ -1,0 +1,31 @@
+.parent{
+    width:800px;
+    height:600px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    position: relative;
+
+}
+.child1,.child2,.child3{
+    height: 100px;
+    width: 100px;
+   
+}
+.child1{
+    background-color: blueviolet;
+    position: absolute;
+    left: 30%;
+}
+.child2{
+    background-color:cadetblue;
+    position: absolute;
+    top: 5px;
+    left: 15%;
+}
+.child3{
+    background-color:pink;
+    position: absolute;
+    left: 20px;
+}
+
+     
